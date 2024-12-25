@@ -22,8 +22,7 @@ cd RestApplication
 
 mvn clean install
 
-### 3. Run the application[Uploading RestApplication.postman_collection.json…]()
-
+### 3. Run the application
 
 mvn spring-boot:run
 
