@@ -26,4 +26,7 @@ mvn clean install
 
 mvn spring-boot:run
 
+Please find below the postman collection with all requested APIs
+file:///Users/chinmay/Documents/RestApplication.postman_collection.json
+
 
