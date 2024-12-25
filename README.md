@@ -22,11 +22,13 @@ cd RestApplication
 
 mvn clean install
 
-### 3. Run the application
+### 3. Run the application[Uploading RestApplication.postman_collection.json…]()
+
 
 mvn spring-boot:run
 
-Please find below the postman collection with all requested APIs
-file:///Users/chinmay/Documents/RestApplication.postman_collection.json
+Please find the postman collection of all the API endpoints in the submission mail.
+
+
 
 
